@@ -17,5 +17,4 @@
  
      fwrite($log, $mpesaResponse);
      fclose($log);
- 
-     echo $response;
+ echo $response;
